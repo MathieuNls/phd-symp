@@ -287,6 +287,8 @@ $endif$
 
 $body$
 
+
+
 $if(natbib)$
     $if(biblio-files)$
         $if(biblio-title)$
