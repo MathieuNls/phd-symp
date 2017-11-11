@@ -3,7 +3,7 @@
 ## Collaborate
 
 Edit the bianca.md file using whichever text editor you want (Vim, Sublime, Word). 
-You can even edit it online, directly on github: https://github.com/PapersOfMathieuNls/phd-symp/edit/master/bianca.md
+You can even edit it online, directly on github: https://github.com/PapersOfMathieuNls/phd-symp/edit/master/symposium.md
 
 The only thing that matters is to save it in text format.
 
